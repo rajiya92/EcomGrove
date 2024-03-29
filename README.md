@@ -11,22 +11,6 @@ Download or clone this repo by using the link below:
 https://github.com/rajiyanareja1517/EcomGrove.git
 ```
 
-
-
-https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/c3f63eea-e75c-47ff-9993-6d34b0786085
-
-
-![Screenshot_20240328_231729](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/2ac72b13-aa50-4cce-81ba-2778233b04ff)
-
-![Screenshot_20240328_231627](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/18fce95a-f6d1-4c56-be7e-3001166b9979)
-
-![Screenshot_20240328_231356](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/e66c26dc-1b87-4354-92f9-472efed45014)
-
-![Screenshot_20240328_231438](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/2abe5f3a-5462-4d3a-a20b-64fa219ba2ba)
-
-![Screenshot_20240328_231501](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/5b9dc5ce-6141-4edf-93d4-f5634c8a47d1)
-
-
 ## EcomGrove Features:
 
 #### Home
@@ -123,3 +107,17 @@ class MyApp extends StatelessWidget {
 ## Conclusion
 
 Again to note, this is example can appear as my code for what it is - but it is an example only. If you liked my work, don’t forget to ⭐ star the repo to show your support.
+
+
+https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/c3f63eea-e75c-47ff-9993-6d34b0786085
+
+
+![Screenshot_20240328_231729](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/2ac72b13-aa50-4cce-81ba-2778233b04ff)
+
+![Screenshot_20240328_231627](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/18fce95a-f6d1-4c56-be7e-3001166b9979)
+
+![Screenshot_20240328_231356](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/e66c26dc-1b87-4354-92f9-472efed45014)
+
+![Screenshot_20240328_231438](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/2abe5f3a-5462-4d3a-a20b-64fa219ba2ba)
+
+![Screenshot_20240328_231501](https://github.com/rajiyanareja1517/EcomGrove/assets/165259303/5b9dc5ce-6141-4edf-93d4-f5634c8a47d1)
